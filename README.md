@@ -6,7 +6,7 @@ I am an experienced JavaScript developer, currently focused on increasing my Jav
 
 I also have considerable experience with building data-parsing applications with Node.js.
 
-Now my work consists on building complex frontend web/mobile applications with React and Redux.
+Now my work consists on building complex frontend web/mobile applications with React(React Native) and Redux.
 
 ## Experience
 
